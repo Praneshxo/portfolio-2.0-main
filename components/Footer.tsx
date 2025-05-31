@@ -14,7 +14,7 @@ const Footer = () => {
 
                 <div className="">
                     <a
-                        href="https://github.com/Tajmirul/portfolio-2.0"
+                        href="https://github.com/Praneshxo0"
                         target="_blank"
                         className="leading-none text-muted-foreground hover:underline hover:text-white"
                     >

@@ -28,8 +28,8 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - Tajmirul Islam',
-    description: 'Personal portfolio of Tajmirul Islam',
+    title: 'Pranesh Fullstack_Developer',
+    description: 'Personal portfolio of Pranesh',
 };
 
 export default function RootLayout({

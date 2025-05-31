@@ -50,9 +50,7 @@ const Banner = () => {
                         <span className="font-medium text-foreground">
                             Pranesh
                         </span>
-                        . A creative Frontend Developer with 1.5+ years of
-                        experience in building high-performance, scalable, and
-                        responsive web solutions.
+                         &nbsp; A Full-stack developer with 2 years of experience building scalable web applications using React, Node.js, and PostgreSQL. I specialize in creating dynamic frontend interfaces with JavaScript, HTML, CSS, and GSAP, and robust backend systems with efficient API integrations.
                     </p>
                     <Button
                         as="link"
@@ -69,7 +67,7 @@ const Banner = () => {
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            1.5+
+                            2
                         </h5>
                         <p className="text-muted-foreground">
                             Years of Experience

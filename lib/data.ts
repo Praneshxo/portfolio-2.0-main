@@ -120,132 +120,137 @@ management. <br/> <br/>
             'Express'
         ],
         thumbnail: '/projects/thumbnail/Raydot.png',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        longThumbnail: '/projects/long/Raydot.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/Raydot.png',
+            '/projects/images/Raydot_2.png',
         ],
     },
     {
-        title: 'Epikcart',
-        slug: 'epikcart',
+        title: 'Chefromana',
+        slug: 'Chefromana',
         techStack: [
             'React',
             'Redux',
-            'React i18n',
-            'Tailwind CSS',
-            'Framer Motion',
-            'debouncing',
+            'Gsap',
             'Api Integration',
         ],
-        thumbnail: '/projects/thumbnail/epikcart.jpg',
-        longThumbnail: '/projects/long/epikcart.jpg',
+        thumbnail: '/projects/thumbnail/Chefromana.png',
+        longThumbnail: '/projects/long/Chefromana.png',
         images: [
-            '/projects/images/epikcart-1.png',
-            '/projects/images/epikcart-2.png',
-            '/projects/images/epikcart-3.png',
-            '/projects/images/epikcart-4.png',
-            '/projects/images/epikcart-5.png',
+            '/projects/images/Chefromana1.png',
+            '/projects/images/Chefromana2.png',
+            '/projects/images/Chefromana3.png',
         ],
-        liveUrl: 'https://demo.epikcart.siphertech.com/',
-        year: 2023,
-        description: `Epikcart is a feature-rich, scalable e-commerce platform tailored for large businesses. It features dynamic product filtering, multi-language support with RTL, advanced inventory management, order tracking, and refund systems, offering a comprehensive solution for multi-vendor operations.`,
-        role: `As the frontend developer in a team of five, I: <br/>
-        - Built the frontend from scratch using React, Redux, RTK Query, and Tailwind CSS.<br/>
-        - Developed dynamic filtering logic for the product search page with admin-configurable parameters.<br/>
-        - Integrated multi-language support with React i18n, including RTL handling.<br/>
-        - Delivered a responsive, user-friendly interface in collaboration with the UI/UX designer.`,
-    },
+        liveUrl: 'https://chefromana.netlify.app/',
+        year: 2024,
+        description: `Built and deployed a responsive Italian-themed recipe finder app using React and Spoonacular API, with
+secure Netlify hosting and user-friendly ingredient search.`,
+         role: `As the sole developer and designer, I:<br/>
+  - Built the complete frontend using React, Redux Toolkit, RTK Query, and Tailwind CSS for a fast, scalable, and maintainable architecture.<br/>
+  - Designed a warm, elegant UI inspired by traditional Italian kitchens, with a custom color palette, Roman-style typography, and interactive visual elements.<br/>
+  - Developed the backend integration and data fetching logic using Spoonacular API, including ingredient-based search and real-time filtering.<br/>
+  - Implemented multi-language support with React i18next, including full RTL compatibility for global usability.<br/>
+  - Secured the application by managing API keys via Netlify environment variables and ensuring safe deployment practices.<br/>
+  - Delivered smooth page transitions, interactive microinteractions, and mobile-first responsiveness for an intuitive user experience.`,
+},
     {
-        title: 'Resume Roaster',
-        slug: 'resume-roaster',
+        title: 'Lunaria',
+        slug: 'Lunaria',
         techStack: [
-            'GPT-4',
-            'Next.js',
-            'Postgressql',
-            'Prisma',
+            'React',
+            'Redux',
             'Tailwind CSS',
+            'Gsap',
+            'GPT-4',
         ],
-        thumbnail: '/projects/thumbnail/resume-roaster.jpg',
-        longThumbnail: '/projects/long/resume-roaster.jpg',
+        thumbnail: '/projects/thumbnail/Lunaria.png',
+        longThumbnail: '/projects/long/Lunaria.png',
         images: [
-            '/projects/images/resume-roaster-1.png',
-            '/projects/images/resume-roaster-2.png',
-            '/projects/images/resume-roaster-3.png',
+            '/projects/images/Lunaria.png',
+            '/projects/images/Lunaria1.png',
+            '/projects/images/Lunaria2.png',
         ],
-        liveUrl: 'https://resume-roaster.vercel.app/',
-        year: 2023,
-        description:
-            'Resume Roaster is a web application designed to provide tailored resume feedback and professional writing services. Built with Next.js, PostgreSQL, Prisma, and Tailwind CSS, it integrates GPT-4 for AI-powered recommendations. The platform also includes peer-to-peer reviews with a points-based system, fostering a collaborative and engaging experience. Targeting freshers, experienced professionals, and programmers, it helps optimize resumes for job-specific success.',
-        role: `As the sole developer and business owner, I:<br/>
-        - Designed and developed the platform end-to-end using Next.js, PostgreSQL, Prisma, and Tailwind CSS.<br/>
-        - Integrated GPT-4 for AI-driven feedback and insights.<br/>
-        - Implemented complex SQL queries, including one to identify the top two resumes based on user points.`,
+        
+        year: 2025,
+        description:'Mood Tracker is a responsive web application developed for XYZ Wellness Center to help users monitor and manage their emotional well-being. The app features mood-based themes, interactive visualizations, and AI-powered self-care recommendations. Built with React, Vite, PostgreSQL, and Tailwind CSS, it integrates Gemini AI for personalized insights and suggestions. The platform encourages daily mood logging, journaling, goal tracking, and optional community support to promote mental health awareness and self-growth.',
+        role: `As the sole developer and React specialist, I:<br/>
+            - Designed and developed the entire application using React, Vite, Tailwind CSS, Node.js, and PostgreSQL.<br/>
+            - Integrated Gemini AI for emotion-based activity suggestions and mental wellness tips.<br/>
+            - Used GSAP for dynamic, mood-responsive UI animations and transitions.<br/>
+            - Built interactive mood visualizations using Chart.js/Recharts.<br/>
+            - Developed secure authentication with JWT and bcrypt, and handled API communication using Axios.<br/>
+            - Implemented journaling (text, voice, image), goal-setting features, and optional peer mood sharing for community support.`,
+
     },
     {
-        title: 'Real Estate',
+        title: 'Nex',
         slug: 'property-pro',
         techStack: [
             'React.js',
+            'Remotion',
             'Redux',
             'Tailwind CSS',
-            'React i18n',
-            'Framer Motion',
+            'Gsap',
+            'GPT-4',
+            
         ],
-        thumbnail: '/projects/thumbnail/property-pro.jpg',
-        longThumbnail: '/projects/long/property-pro.jpg',
+        thumbnail: '/projects/thumbnail/Nex1.png',
+        longThumbnail: '/projects/long/Nex1.png',
         images: [
-            '/projects/images/property-pro-1.png',
-            '/projects/images/property-pro-2.png',
-            '/projects/images/property-pro-3.png',
+            '/projects/images/Nex1.png',
+            '/projects/images/Nex2.png',
+            '/projects/images/Nex3.png',
         ],
         liveUrl: 'https://demo.propertypro.siphertech.com/',
         year: 2023,
-        description:
-            'PropertyPro is a real estate management platform offering users a seamless experience to explore, manage, and view property listings. The application emphasizes accessibility and responsive design, ensuring a smooth interface across devices.',
-        role: `As the frontend developer, I:<br/>
-        - Built the frontend using React, Redux, RTK Query, Framer Motion, and Tailwind CSS.<br/>
-        - Integrated dynamic state management for efficient handling of property data.<br/>
-        - Implemented multi-language support with React i18n to cater to diverse audiences.<br/>
-        - Enhanced user interaction with animations and transitions using Framer Motion.`,
-    },
-    {
-        title: 'Consulting Finance',
-        slug: 'crenotive',
-        techStack: ['HTML', 'CSS & SCSS', 'Javascript', 'Bootstrap'],
-        thumbnail: '/projects/thumbnail/consulting-finance.jpg',
-        longThumbnail: '/projects/long/consulting-finance.jpg',
-        images: [
-            '/projects/images/consulting-finance-1.png',
-            '/projects/images/consulting-finance-2.png',
-            '/projects/images/consulting-finance-3.png',
-        ],
-        sourceCode: 'https://github.com/Tajmirul/crenotive',
-        liveUrl: 'https://crenotive.netlify.app/',
-        year: 2023,
-        description:
-            'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
-        role: ``,
-    },
-    {
-        title: 'devLinks',
-        slug: 'devLinks',
-        techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
-        thumbnail: '/projects/thumbnail/devLinks.jpg',
-        longThumbnail: '/projects/long/devLinks.jpg',
-        images: [
-            '/projects/images/devLinks-1.png',
-            '/projects/images/devLinks-2.png',
-            '/projects/images/devLinks-3.png',
-        ],
-        sourceCode: 'https://github.com/Tajmirul/devsLink',
-        liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
-        year: 2023,
-        description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
+    description: 
+    'An AI-powered educational platform that transforms static PDFs into interactive, video-based learning content. Built using React, Remotion, and PostgreSQL, it automates the creation of engaging educational videos using customizable templates and Gemini AI, making learning more accessible and scalable across diverse regions.',
+     role: `As the React developer and version control lead, I:<br/>
+        - Developed and maintained the entire frontend using <b>React</b>, ensuring responsiveness and scalability.<br/>
+        - Created dynamic, template-based educational videos using <b>Remotion</b>, a JavaScript library for programmatic video rendering.<br/>
+        - Integrated Gemini and GPT-4 to generate personalized learning and career roadmap content.<br/>
+        - Implemented and managed <b>PostgreSQL</b> for efficient content and user data storage.<br/>
+        - Collaborated via Git for full project lifecycle management, including version control, issue tracking, and deployment readiness.`,
 
-            I developed a LinkSharing App as part of the Frontend Mentor challenge, utilizing React, Redux, and Tailwind CSS to create a responsive and feature-rich platform. The app allows users to share, save, and explore links, with a focus on intuitive design and smooth navigation. Advanced state management ensures efficient data handling for user interactions.`,
-        role: ``,
     },
+    // {
+    //     title: 'Consulting Finance',
+    //     slug: 'crenotive',
+    //     techStack: ['HTML', 'CSS & SCSS', 'Javascript', 'Bootstrap'],
+    //     thumbnail: '/projects/thumbnail/consulting-finance.jpg',
+    //     longThumbnail: '/projects/long/consulting-finance.jpg',
+    //     images: [
+    //         '/projects/images/consulting-finance-1.png',
+    //         '/projects/images/consulting-finance-2.png',
+    //         '/projects/images/consulting-finance-3.png',
+    //     ],
+    //     sourceCode: 'https://github.com/Tajmirul/crenotive',
+    //     liveUrl: 'https://crenotive.netlify.app/',
+    //     year: 2023,
+    //     description:
+    //         'I developed Crenotive, a portfolio website using Html, SASS, and jQuery to showcase services and expertise. The design focuses on responsive user experience and effective presentation of professional achievements.',
+    //     role: ``,
+    // },
+    // {
+    //     title: 'devLinks',
+    //     slug: 'devLinks',
+    //     techStack: ['Next.js', 'Formik', 'Drag & Drop', 'Tailwind CSS'],
+    //     thumbnail: '/projects/thumbnail/devLinks.jpg',
+    //     longThumbnail: '/projects/long/devLinks.jpg',
+    //     images: [
+    //         '/projects/images/devLinks-1.png',
+    //         '/projects/images/devLinks-2.png',
+    //         '/projects/images/devLinks-3.png',
+    //     ],
+    //     sourceCode: 'https://github.com/Tajmirul/devsLink',
+    //     liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
+    //     year: 2023,
+    //     description: `One of the most challenging projects in Frontend Mentor.<br/><br/>
+
+    //         I developed a LinkSharing App as part of the Frontend Mentor challenge, utilizing React, Redux, and Tailwind CSS to create a responsive and feature-rich platform. The app allows users to share, save, and explore links, with a focus on intuitive design and smooth navigation. Advanced state management ensures efficient data handling for user interactions.`,
+    //     role: ``,
+    // },
 ];
 
 export const MY_EXPERIENCE = [
