@@ -71,11 +71,11 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I'm a passionate developer with over 2 years of experience crafting elegant solutions to complex problems.
+                                I&apos;m a passionate developer with over 2x years of experience crafting elegant solutions to complex problems.
                                 
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                I built my first website at 15, and since then, I've grown into a full stack developer passionate about crafting end-to-end solutions. From intuitive UIs to robust back ends, I focus on performance, security, and scalability to deliver seamless, impactful digital experiences.
+                                I built my first website at 15, and since then, I&apos;ve grown into a full stack developer passionate about crafting end-to-end solutions. From intuitive UIs to robust back ends, I focus on performance, security, and scalability to deliver seamless, impactful digital experiences.
                             </p>
                         </div>
                     </div>
