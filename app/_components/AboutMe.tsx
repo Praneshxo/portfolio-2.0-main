@@ -71,7 +71,7 @@ const AboutMe = () => {
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a passionate developer with over 2x years of experience crafting elegant solutions to complex problems.
+                                I&apos;m a passionate developer with over 2 years of experience crafting elegant solutions to complex problems.
                                 
                             </p>
                             <p className="mt-3 slide-up-and-fade">
