@@ -171,7 +171,7 @@ secure Netlify hosting and user-friendly ingredient search.`,
             '/projects/images/Lunaria1.png',
             '/projects/images/Lunaria2.png',
         ],
-        
+        liveUrl:'https://lunaria-test.netlify.app/Home',
         year: 2025,
         description:'Mood Tracker is a responsive web application developed for XYZ Wellness Center to help users monitor and manage their emotional well-being. The app features mood-based themes, interactive visualizations, and AI-powered self-care recommendations. Built with React, Vite, PostgreSQL, and Tailwind CSS, it integrates Gemini AI for personalized insights and suggestions. The platform encourages daily mood logging, journaling, goal tracking, and optional community support to promote mental health awareness and self-growth.',
         role: `As the sole developer and React specialist, I:<br/>
