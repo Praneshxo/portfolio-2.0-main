@@ -127,33 +127,38 @@ management. <br/> <br/>
         ],
     },
     {
-        title: 'Chefromana',
-        slug: 'Chefromana',
-        techStack: [
-            'React',
-            'Redux',
-            'Gsap',
-            'Api Integration',
-        ],
-        thumbnail: '/projects/thumbnail/Chefromana.png',
-        longThumbnail: '/projects/long/Chefromana.png',
-        images: [
-            '/projects/images/Chefromana1.png',
-            '/projects/images/Chefromana2.png',
-            '/projects/images/Chefromana3.png',
-        ],
-        liveUrl: 'https://chefromana.netlify.app/',
-        year: 2024,
-        description: `Built and deployed a responsive Italian-themed recipe finder app using React and Spoonacular API, with
-secure Netlify hosting and user-friendly ingredient search.`,
-         role: `As the sole developer and designer, I:<br/>
-  - Built the complete frontend using React, Redux Toolkit, RTK Query, and Tailwind CSS for a fast, scalable, and maintainable architecture.<br/>
-  - Designed a warm, elegant UI inspired by traditional Italian kitchens, with a custom color palette, Roman-style typography, and interactive visual elements.<br/>
-  - Developed the backend integration and data fetching logic using Spoonacular API, including ingredient-based search and real-time filtering.<br/>
-  - Implemented multi-language support with React i18next, including full RTL compatibility for global usability.<br/>
-  - Secured the application by managing API keys via Netlify environment variables and ensuring safe deployment practices.<br/>
-  - Delivered smooth page transitions, interactive microinteractions, and mobile-first responsiveness for an intuitive user experience.`,
+    title: 'Elvio',
+    slug: 'Elvio',
+    techStack: [
+        'React',
+        'TypeScript',
+        'Tailwind CSS',
+        'Distributed Edge Functions',
+        'Microservices Architecture',
+        'GSAP',
+        'Cloud-Native Database',
+        'Real-time Analytics',
+    ],
+    thumbnail: '/projects/thumbnail/Elvio.png',
+    longThumbnail: '/projects/long/Elvio.png',
+    images: [
+        '/projects/images/Elvio1.png',
+        '/projects/images/Elvio2.png',
+        '/projects/images/Elvio3.png',
+    ],
+    liveUrl: 'https://elvio.site',
+    year: 2026,
+    description: `Engineered a high-performance career preparation platform featuring a gamified DSA and SQL mastery engine, 
+    built on a scalable microservices architecture with distributed edge compute and strict session integrity.`,
+    role: `As the lead developer, I:<br/>
+  - Architected a **microservices-based backend** using distributed **Edge Functions**, enabling high-availability payment verification and real-time progress tracking with sub-millisecond latency.<br/>
+  - Developed a **quantitative gamification engine** for DSA and SQL preparation, implementing streak-based reward systems and "Skill Gap" visualizations to drive user engagement.<br/>
+  - Engineered a **single-device session enforcement** mechanism, utilizing managed cloud state and real-time polling to ensure account security and prevent concurrent logins.<br/>
+  - Built a high-fidelity frontend using **React, TypeScript, and Tailwind CSS**, featuring complex interactive UI components for coding challenges and quantitative performance analytics.<br/>
+  - Optimized platform performance by implementing **parallel data fetching (Promise.all)** and debounced search indexing, reducing dashboard load times by 60% and ensuring instant data retrieval.<br/>
+  - Designed and deployed a **segregated data architecture** for multi-topic learning paths, providing students with granular performance metrics and targeted preparation milestones.`,
 },
+
     {
         title: 'Lunaria',
         slug: 'Lunaria',
